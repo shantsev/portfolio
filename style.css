@@ -7,10 +7,20 @@
     font-size: 18px;
 }
 
+.subb-text {
+    font-size: 14px;
+    color: gray;
+}
+
 .wrapper {
     min-height: 100%;
 
   /* Equal to height of footer */
   /* But also accounting for potential margin-bottom of last child */
     margin-bottom: -50px;
+}
+
+.wk-img {
+    border: 5px solid;
+    border-color: rgb(13, 110, 253);
 }
